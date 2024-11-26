@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Font1'; /* Your custom font name */
+  src: url('/public/fonts/soehne-breit-buch.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Font2'; /* Your custom font name */
+  src: url('/public/fonts/soehne-breit-kraftig.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proximanova-regular";
+  src: url("/public/fonts/proximanova-regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "proximanova-semibold";
+  src: url("/public/fonts/proximanova-semibold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "proximanova-bold";
+  src: url("/public/fonts/proximanova-bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "proximanova-light";
+  src: url("/public/fonts/proximanova-light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "proximanova-thin";
+  src: url("/public/fonts/proximanova-thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "montserrat";
+  src: url("/public/fonts/montserrat.ttf") format("truetype");
+}
